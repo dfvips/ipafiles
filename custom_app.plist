@@ -1,0 +1,40 @@
+
+    <?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+        <dict>
+            <key>items</key>
+            <array>
+                <dict>
+                    <key>assets</key>
+                    <array>
+                        <dict>
+                            <key>kind</key>
+                            <string>software-package</string>
+                            <key>url</key>
+                            <string>https://pan.iqiyi.com/file/paopao/E4VSv31UmjMSUYdhWiTlMo-9b8xMUAYX_2JesCbZ5JGXYiLGmtpk5-Ujp8n4x54Buex2-61yRciVqZeQiu-ZFw.ipa</string>
+                        </dict>
+                        <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://pan.iqiyi.com/file/paopao/0nkazc5DlJapBU74s9DnRiSQfD6coQN2SeALa2nhZPz9FgjkrcE9oOMVIIfIc0BG1KEUOBImCQoI4yRGN147Iw.png<</string>
+                        </dict>
+                    </array>
+                    <key>metadata</key>
+                    <dict>
+                        <key>bundle-identifier</key>
+                        <string>com.852A09C4-BD0A-407F-9166-7CD1BD09552D</string>
+                        <key>bundle-version</key>
+                        <string>1.0</string>
+                        <key>kind</key>
+                        <string>software</string>
+                        <key>title</key>
+                        <string>酷我音乐</string>
+                    </dict>
+                </dict>
+            </array>
+        </dict>
+    </plist>
